@@ -21,7 +21,7 @@
     Digital Marketing Landing Page
     <br />
     <br />
-    <a href="https://ineuron-digital.netlify.app/">View Demo</a>
+    <a href="https://ineuron-plant.netlify.app/">View Demo</a>
     ·
     <a href="https://prahladinala.in/contact">Contact</a>
   </p>
@@ -76,7 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-[Live Project URL](https://ineuron-digital.netlify.app/)
+[Live Project URL](https://ineuron-plant.netlify.app/)
 
 <!-- LEARNT -->
 
@@ -122,7 +122,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 Project Link: [https://github.com/prahladinala/Live-Project-6-Plant-Home-Page](https://github.com/prahladinala/Live-Project-6-Plant-Home-Page)
 
-Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital.netlify.app/)
+Live Project URL: [https://ineuron-plant.netlify.app/](https://ineuron-plant.netlify.app/)
 
 <!-- BACK TO TOP -->
 
@@ -175,4 +175,4 @@ Live Project URL: [https://ineuron-digital.netlify.app/](https://ineuron-digital
 <!-- Project screenshot -->
 
 [product-screenshot]: /readme_assets/project01.jpg
-[project-url]: https://ineuron-digital.netlify.app/
+[project-url]: https://ineuron-plant.netlify.app/
