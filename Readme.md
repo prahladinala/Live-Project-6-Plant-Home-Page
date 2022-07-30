@@ -15,10 +15,10 @@
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 04</h3>
+<h3 align="center">Project 06</h3>
 
   <p align="center">
-    Digital Marketing Landing Page
+    Plant Shop Landing Page
     <br />
     <br />
     <a href="https://ineuron-plant.netlify.app/">View Demo</a>
